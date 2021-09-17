@@ -12,8 +12,7 @@
 <img align ="center" alt='html5' src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "/>
 <img align ="center" alt='html5' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "/>
 </div>
-<div> https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green </div>
-  
+![ValterBriolli's tecnologies]( https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green )
 
 
 
