@@ -2,7 +2,7 @@
 
 ![Welcome](https://github.com/ValterBriolli/ValterBriolli/blob/main/Machine%20BY.png)
 
-![ValterBriolli's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValterBriolli&theme=dracula)
+![ValterBriolli's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValterBriolli&theme=ondark)
 
 ## My Tecnologies!
 
@@ -13,7 +13,5 @@
 <img align ="center" alt='html5' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "/>
 </div>
 
-<div></br>
-![ValterBriolli's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValterBriolli&theme=dracula)
-</div>
+
 
